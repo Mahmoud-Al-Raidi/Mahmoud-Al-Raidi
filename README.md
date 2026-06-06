@@ -36,9 +36,7 @@ White-label e-commerce platform designed for rapid deployment and customization 
 
 ## GitHub Stats
 
-![Mahmoud's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mahmoud-Al-Raidi&theme=dark&show_icons=true&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mahmoud-Al-Raidi&theme=dark&layout=compact&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=Mahmoud-Al-Raidi&theme=dark)
 
 ## Contact
 
