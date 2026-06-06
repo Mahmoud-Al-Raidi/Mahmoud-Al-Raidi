@@ -1,16 +1,51 @@
-## Hi there 👋
+# Hi, I'm Mahmoud Al-Raidi 👋
 
-<!--
-**Mahmoud-Al-Raidi/Mahmoud-Al-Raidi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Backend Engineer focused on building production-grade E-commerce, B2B, and business platforms using ASP.NET Core.
 
-Here are some ideas to get you started:
+I enjoy transforming business requirements into scalable software systems and building products from idea to deployment.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech Stack
+
+- **ASP.NET Core** | **PostgreSQL** | **Redis** | **SignalR**
+- **Docker** | **Nginx** | **Git & GitHub** | **GitHub Actions**
+- **Cloudflare** | **Cloudflare R2** | **Azure**
+- **HTML, CSS, JavaScript** | **Bootstrap, Tailwind CSS**
+- **AI-Assisted Development** (Cursor, Roo Code)
+
+## Featured Projects
+
+### 🏪 My Goods
+B2B multi-vendor marketplace connecting suppliers and retailers with BNPL, accounting, subscriptions, and supplier management.
+**Tech:** ASP.NET Core | PostgreSQL | Redis | SignalR | Docker | Nginx
+
+### 📚 ToUp
+Private tutoring platform supporting online and offline learning with booking, messaging, notifications, and real-time communication.
+**Tech:** ASP.NET Core | PostgreSQL | Redis | SignalR | Firebase
+
+### 🛍️ Optru
+Multi-vendor dropshipping platform integrated with Chinese suppliers, multilingual catalogs, advanced permissions, shipping, and payment systems.
+**Tech:** ASP.NET Core 8 | PostgreSQL | Redis | SignalR | Firebase | Docker
+
+### 🏗️ Smart Building
+Graduation project combining construction materials e-commerce, professional services, and real estate listings.
+**Tech:** ASP.NET Core | PostgreSQL | Redis | SignalR | Firebase
+
+### 🎨 Commerce Engine
+White-label e-commerce platform designed for rapid deployment and customization across multiple businesses.
+**Tech:** ASP.NET Core | PostgreSQL | Redis | Docker | Tailwind CSS
+
+## GitHub Stats
+
+![Mahmoud's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mahmoud-Al-Raidi&theme=dark&show_icons=true&hide_border=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mahmoud-Al-Raidi&theme=dark&layout=compact&hide_border=true)
+
+## Contact
+
+📧 **Email:** mahmoudalraidi735@gmail.com
+
+📍 **Location:** Sana'a, Yemen
+
+🔗 **GitHub:** [github.com/Mahmoud-Al-Raidi](https://github.com/Mahmoud-Al-Raidi)
+
+📱 **Phone:** +967779892824
