@@ -34,9 +34,13 @@ Graduation project combining construction materials e-commerce, professional ser
 White-label e-commerce platform designed for rapid deployment and customization across multiple businesses.
 **Tech:** ASP.NET Core | PostgreSQL | Redis | Docker | Tailwind CSS
 
-## GitHub Stats
+## Current Focus
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Mahmoud-Al-Raidi&theme=dark)
+- Building scalable E-commerce platforms
+- B2B Marketplace systems
+- ASP.NET Core Backend Engineering
+- DevOps & Cloud Deployments
+- AI-Assisted Development
 
 ## Contact
 
